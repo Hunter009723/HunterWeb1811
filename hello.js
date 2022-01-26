@@ -7,3 +7,6 @@ console.log('我是Hunter子分支');
 console.log('______');
 console.log('主分支');
 console.log('______');
+console.log('------------');
+console.log('child');
+console.log('------------');
