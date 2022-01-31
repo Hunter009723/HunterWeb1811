@@ -3,7 +3,7 @@ description: >-
   This is the page contains all useful links & documents you may need during the
   competition.
 ---
-
+# 
 # ✨ Getting Started
 
 ![](.gitbook/assets/logos%20%282%29%20%281%29.png)
@@ -25,3 +25,17 @@ description: >-
 2. [ModelArts Tutorial](https://support.huaweicloud.com/intl/en-us/modelarts/index.html)
 3. [OBS Tutorial](https://support.huaweicloud.com/intl/en-us/obs/index.html)
 4. [MindSpore CV-related source code](https://gitee.com/mindspore/mindspore/tree/master/model_zoo/official/cv)
+5.Code Aspect
+```
+ts代碼範例
+//config.ts
+const user:string="Hunter"
+console.log("user")
+export user
+
+//index.ts
+import {user} from './config.ts'
+const f:function<user,age>{
+  console.log(`${user}您好！您的年齡為${age}`)
+};
+```
