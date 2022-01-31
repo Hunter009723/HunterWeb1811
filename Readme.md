@@ -25,7 +25,7 @@ description: >-
 2. [ModelArts Tutorial](https://support.huaweicloud.com/intl/en-us/modelarts/index.html)
 3. [OBS Tutorial](https://support.huaweicloud.com/intl/en-us/obs/index.html)
 4. [MindSpore CV-related source code](https://gitee.com/mindspore/mindspore/tree/master/model_zoo/official/cv)
-5.Code Aspect
+5. Code Aspect
 ```
 ts代碼範例
 //config.ts
